@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "name": "id",
+      "type": {
+        "isSigned": true,
+        "bitWidth": 64
+      },
+      "nullable": true,
+      "metadata": {}
+    },
+    {
+      "name": "vendor_id",
+      "type": {},
+      "nullable": true,
+      "metadata": {}
+    },
+    {
+      "name": "store_and_fwd_flag",
+      "type": {},
+      "nullable": true,
+      "metadata": {}
+    },
+    {
+      "name": "passenger_count",
+      "type": {
+        "isSigned": true,
+        "bitWidth": 32
+      },
+      "nullable": true,
+      "metadata": {}
+    }
+  ],
+  "metadata": {},
+  "dictionaries": {}
+}

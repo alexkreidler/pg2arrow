@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.jsonld": "jsonc",
+        "**/templates/*.tpl": "helm",
+        ".js": "typescript",
+        "*.nt": "trig",
+        "pg2arrow.h": "c",
+        "arrow_defs.h": "c"
+    }
+}
